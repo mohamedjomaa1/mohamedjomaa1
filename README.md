@@ -65,7 +65,7 @@
 
 ## 🔥 Featured Projects
 
-### 💰 Invest AI Platform
+### 💰 Invest AI Platform **[Repo](https://github.com/mohamedjomaa1/investia) |**
 > Multi-platform investment assistant (Web + Mobile) with CI/CD pipeline
 **Tech:** Angular, Flutter, Spring Boot, Docker, Jenkins, SonarQube  
 - 💼 Multi-account aggregation — connect bank, crypto, and brokerage accounts via secure OAuth connectors

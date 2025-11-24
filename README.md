@@ -67,6 +67,7 @@
 
 ### 💰 Invest AI Platform
 > Multi-platform investment assistant (Web + Mobile) with CI/CD pipeline
+
 **Tech:** Angular, Flutter, Spring Boot, Docker, Jenkins, SonarQube  
 - 💼 Multi-account aggregation — connect bank, crypto, and brokerage accounts via secure OAuth connectors
 - 💳 Transaction tracking & receipts — multi-account transactions, receipt image upload + OCR auto-categorization
@@ -87,6 +88,7 @@
 
 ### 🏋️‍♂️ Gym Management System
 > Full-stack gym solution with web APIs and desktop client
+
 **Tech:** Laravel, JavaFX, MySQL  
 - 🧍‍♂️ Member registration & profile management with photos, biometric fields, and membership types
 - 💳 Subscription & payment tracking (monthly, quarterly, yearly) with automatic status updates
@@ -107,6 +109,7 @@
 
 ### 👩‍🎓Educational Platform
 > Cross-device learning platform (Web + Desktop + Mobile)
+
 **Tech:** Symfony, JavaFX, CodenameOne
 - 🎓 Course creation & management — lessons, modules, videos, quizzes, assignments
 - 👩‍🏫 Teacher dashboards — student tracking, grading, attendance, and course analytics
@@ -127,6 +130,7 @@
 
 ### 🏛️SmartMunicipality Desktop App
 > Customer relationship management system with Oracle DB
+
 **Tech:** C++, Qt, Oracle Database
 - 👤 Customer management — detailed profiles, contact history, notes, tags, and attachments
 - 🧾 Lead & opportunity tracking — sales stages, expected revenue, closing probability, reminders
@@ -147,6 +151,7 @@
 
 ### 🧭2D Adventure Game
 > Retro-style 2D game from scratch
+
 **Tech:** C, SDL2 (Ubuntu)
 - 🎮 Custom 2D engine built in C — rendering loop, game states, event handling, collision detection
 - 🧱 Tile-based world with map loading from JSON/TXT and multi-layer environments

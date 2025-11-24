@@ -41,17 +41,25 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-| Category              | Technologies |
-|-----------------------|--------------|
-| **Languages**         | C/C++, Java, Python, JavaScript/TypeScript, PHP, C#, Kotlin |
-| **Frontend**          | Angular, React.js, Flutter, JavaFX, Codename One |
-| **Backend**           | Spring Boot, Node.js, NestJS, Laravel, Symfony, .NET, Django, Flask |
-| **Databases**         | MySQL, PostgreSQL, MongoDB, Oracle, SQL Server |
-| **Mobile**            | Flutter, Kotlin (Android), React Native, Unity |
-| **DevOps & Cloud**    | Docker, Jenkins, SonarQube, Git, Azure |
-| **Testing**           | JUnit, Mockito, Postman |
-| **AI / ML**           | TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK, SpaCy |
-| **Others**            | Divalto Infinity ERP, Power BI, Qt, SDL2 |
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
+### Testing
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-00A0DC?style=for-the-badge&logo=mockito&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PyUnit](https://img.shields.io/badge/PyUnit-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 

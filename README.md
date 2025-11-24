@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🎓 **Software Engineer** | Specializing in **Web & Mobile Development | DevOps**.
+🎓 **Software Engineer** | Specializing in **Web & Mobile Development and DevOps**.
 
 🔍 Actively seeking a **graduation internship (PFE)**. 
 

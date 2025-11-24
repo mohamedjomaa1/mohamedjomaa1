@@ -11,11 +11,15 @@
 
 ### 🚀 About Me
 
-🎓 **Software Engineering Student** | Specializing in **Web Development & DevOps**
+🎓 **Software Engineering Student** | Specializing in **Web Development & DevOps**.
+
 🔍 Actively seeking a **graduation internship (PFE)**. 
-📈 Launched robust applications with a user base exceeding 1,000 and maintained 99.9% availability
+
+📈 Launched robust applications with a user base exceeding 1,000 and maintained 99.9% availability.
+
 ⚡ Passionate about building scalable web/mobile applications, modern DevOps practices, and exploring AI/ML.
-👐 Open to remote opportunities
+
+👐 Open to remote opportunities.
 
 
 ---

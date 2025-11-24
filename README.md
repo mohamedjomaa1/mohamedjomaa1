@@ -65,11 +65,22 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedjomaa1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedjomaa1&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
+</div>
+
+---
+
 ## ⚡ Streak
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedjomaa1&theme=tokyonight" alt="streak" />
+
+</div>
 
 ---
 

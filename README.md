@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Category              | Technologies |
 |-----------------------|--------------|
@@ -40,7 +40,7 @@
 
 ---
 
-### 🔥 Featured Projects
+## 🔥 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |-------|-----------|------------|-------|
@@ -54,7 +54,7 @@
 
 ---
 
-### 🏆 Certificates & Achievements
+## 🏆 Certificates & Achievements
 - NVIDIA Fundamentals of Deep Learning
 - Google Project Management
 - Scrum Fundamentals Certified (SFC)
@@ -63,15 +63,29 @@
 ---
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedjomaa1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedjomaa1&layout=compact&langs_count=10&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedjomaa1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedjomaa1&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-### ⚡ Streak
+## ⚡ Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedjomaa1&theme=tokyonight" alt="streak" />
 
 ---
 
+## 🌎 Let's Connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-jomaa-1b5a3a217/)
+  [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/mohamedjomaa1)
+
+</div>
+
+---
+
+<div align="center">
 **Open to internship & collaboration opportunities in 2026** 🚀  
 Feel free to reach out — let's build something amazing together!
+</div>
+

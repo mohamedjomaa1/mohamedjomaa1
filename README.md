@@ -1,25 +1,18 @@
-<img align="right" width="380" src="https://i.imgur.com/YOUR_PHOTO_LINK.jpg" alt="Mohamed Jomaa" />
 
 # Hi there, I'm Mohamed Jomaa 👋
 
-**Final-year Software Engineering Student at ESPRIM**  
-`Web & Mobile Development | DevOps | Full-Stack | AI Enthusiast`
-
-📍 Teboulba, Monastir, Tunisia  
-📧 med_jomaa@outlook.com  
-🔗 [linkedin.com/in/mohamed-jomaa-1b5a3a217](https://linkedin.com/in/mohamed-jomaa-1b5a3a217)  
-💻 [github.com/mohamedjomaa1](https://github.com/mohamedjomaa1)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=2500&pause=1000&color=005F19&width=435&lines=Software+Engineer;Full-Stack+Developer;Angular+%E2%80%A2+ReactJS+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;Cloud+%7C+DevOps+%26+CI%2FCD" alt="Typing SVG" /></a>
 
 ---
 
 ### 🚀 About Me
-Actively seeking a **graduation internship (PFE)** in 2026. Passionate about building scalable web/mobile applications, modern DevOps practices, and exploring AI/ML.
 
-Currently specializing in:
-- Full-Stack Development
-- Cross-platform Mobile Apps (Flutter, React Native)
-- Cloud & CI/CD (Docker, Jenkins, Azure)
-- AI & Machine Learning
+🎓 **Software Engineering Student** | Specializing in **Web Development & DevOps**
+🔍 Actively seeking a **graduation internship (PFE)**. 
+📈 Launched robust applications with a user base exceeding 1,000 and maintained 99.9% availability
+⚡ Passionate about building scalable web/mobile applications, modern DevOps practices, and exploring AI/ML.
+👐 Open to remote opportunities
+
 
 ---
 
@@ -61,13 +54,6 @@ Currently specializing in:
 
 ---
 
-### 🌍 Languages
-- Arabic → Native
-- French → Advanced
-- English → Advanced
-- German → Beginner
-
----
 
 ### 📊 GitHub Stats
 

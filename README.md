@@ -65,7 +65,7 @@
 
 ## 🔥 Featured Projects
 
-### 💰 Invest AI Platform **[Repo](https://github.com/mohamedjomaa1/investia) |**
+### 💰 Invest AI Platform
 > Multi-platform investment assistant (Web + Mobile) with CI/CD pipeline
 **Tech:** Angular, Flutter, Spring Boot, Docker, Jenkins, SonarQube  
 - 💼 Multi-account aggregation — connect bank, crypto, and brokerage accounts via secure OAuth connectors
@@ -80,7 +80,8 @@
 - ⚙️ Modular microservices backend — Spring Boot services, Dockerized, with clear service boundaries and contracts
 - 🔁 Robust CI/CD & quality gates — Jenkins pipelines, SonarQube static analysis, automated unit/integration/E2E tests
 - 🚦 Feature management & rollout — feature flags and canary/blue-green deployments for safe releases
-**[Repo](https://github.com/mohamedjomaa1/investia) |**
+  
+**[Repo](https://github.com/mohamedjomaa1/investia)**
 
 ---
 
@@ -99,6 +100,7 @@
 - 🔁 Offline-friendly desktop client with local caching & auto-sync when internet is restored
 - 🌓 Clean, responsive admin panel UI (Laravel Blade/Vue optional)
 - 🚦 API-first architecture ready for mobile apps or additional frontends
+  
 **[Repo](https://github.com/mohamedjomaa1/powergym-laravel-javaFX)**
 
 ---
@@ -118,6 +120,7 @@
 - 🧾 Certificates generation (PDF) for completed courses
 - 🌓 Dark/Light mode + accessible UI across all platforms
 - 🚦 API-first design enabling future mobile/desktop clients and external integration
+  
 **[Repo](https://github.com/mohamedjomaa1/LEARN4u-symfony-javaFX-codenameone)**
 
 ---

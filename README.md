@@ -83,7 +83,7 @@
   
 **[Repo](https://github.com/mohamedjomaa1/investia)**
 
----
+
 
 ### 🏋️‍♂️ Gym Management System
 > Full-stack gym solution with web APIs and desktop client
@@ -103,7 +103,7 @@
   
 **[Repo](https://github.com/mohamedjomaa1/powergym-laravel-javaFX)**
 
----
+
 
 ### 👩‍🎓Educational Platform
 > Cross-device learning platform (Web + Desktop + Mobile)
@@ -123,7 +123,7 @@
   
 **[Repo](https://github.com/mohamedjomaa1/LEARN4u-symfony-javaFX-codenameone)**
 
----
+
 
 ### 🏛️SmartMunicipality Desktop App
 > Customer relationship management system with Oracle DB
@@ -143,7 +143,7 @@
 
 **[Repo](https://github.com/mohamedjomaa1/smartMunicipality-Qt-Cpp)**
 
----
+
 
 ### 🧭2D Adventure Game
 > Retro-style 2D game from scratch

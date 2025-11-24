@@ -119,7 +119,7 @@
 ---
 
 <div align="center">
-### **Open to internship & collaboration opportunities in 2026** 🚀  
+### Open to internship & collaboration opportunities in 2026 🚀
   
 Feel free to reach out — let's build something amazing together!
 </div>

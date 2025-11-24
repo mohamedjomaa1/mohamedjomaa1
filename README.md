@@ -65,15 +65,102 @@
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|-------|-----------|------------|-------|
-| **Invest AI Platform** | Multi-platform investment assistant (Web + Mobile) with CI/CD pipeline | Angular, Flutter, Spring Boot, Docker, Jenkins, SonarQube | [Repo](https://github.com/mohamedjomaa1/invest-ai) |
-| **Gym Management System** | Full-stack gym solution with web APIs and desktop client | Laravel, JavaFX, MySQL | [Repo](https://github.com/mohamedjomaa1/gym-management) |
-| **Educational Platform** | Cross-device learning platform (Web + Desktop + Mobile) | Symfony, JavaFX, Codename One | [Repo](https://github.com/mohamedjomaa1/edu-platform) |
-| **CRM Desktop Tool** | Customer relationship management system with Oracle DB | C++, Qt, Oracle Database | [Repo](https://github.com/mohamedjomaa1/crm-qt-crm) |
-| **2D Adventure Game** | Retro-style 2D game from scratch | C, SDL2 (Ubuntu) | [Repo](https://github.com/mohamedjomaa1/2d-adventure-game) |
+### 💰 Invest AI Platform
+> Multi-platform investment assistant (Web + Mobile) with CI/CD pipeline
+**Tech:** Angular, Flutter, Spring Boot, Docker, Jenkins, SonarQube  
+- 💼 Multi-account aggregation — connect bank, crypto, and brokerage accounts via secure OAuth connectors
+- 💳 Transaction tracking & receipts — multi-account transactions, receipt image upload + OCR auto-categorization
+- 🤖 AI investment recommendations — risk-profile driven suggestions with explainable rationale and confidence scores
+- 🎯 Smart budget & portfolio rules — threshold alerts (80% / 100%) and optional automated actions (rebalance, pause, contribute)
+- 📆 Scheduled contributions & rebalancing — customizable strategies (DCA, fixed-date rebalances)
+- 🔐 Secure auth & access control — JWT + refresh tokens, RBAC, device management, and audit logs
+- 📊 Real-time analytics — interactive dashboards with drill-down charts (Recharts) and streaming portfolio updates
+- 🧾 Reporting & exports — tax lot, capital gains reports; export to CSV/PDF for multiple jurisdictions
+- 🌓 Responsive multi-platform UI — Angular web + Flutter mobile with Dark/Light mode and WCAG accessibility
+- ⚙️ Modular microservices backend — Spring Boot services, Dockerized, with clear service boundaries and contracts
+- 🔁 Robust CI/CD & quality gates — Jenkins pipelines, SonarQube static analysis, automated unit/integration/E2E tests
+- 🚦 Feature management & rollout — feature flags and canary/blue-green deployments for safe releases
+**[Repo](https://github.com/mohamedjomaa1/investia) |**
 
-(Replace the links above with your actual repository URLs – make sure they are public and have good READMEs!)
+---
+
+### 🏋️‍♂️ Gym Management System
+> Full-stack gym solution with web APIs and desktop client
+**Tech:** Laravel, JavaFX, MySQL  
+- 🧍‍♂️ Member registration & profile management with photos, biometric fields, and membership types
+- 💳 Subscription & payment tracking (monthly, quarterly, yearly) with automatic status updates
+- 📆 Attendance tracking using QR code / ID scanning with instant validation
+- 🏋️ Workout plans & class scheduling with trainer assignments and capacity limits
+- 👨‍🏫 Trainer & staff management with role-based permissions
+- 🔐 Secure authentication (Laravel Sanctum/JWT) for both web API and desktop client
+- 📊 Dashboard analytics — active members, revenue charts, attendance patterns, and plan tracking
+- 🧾 Invoice & receipt generation (PDF exports) for subscription renewals
+- 📂 Document storage for medical certificates, contracts, and membership files
+- 🔁 Offline-friendly desktop client with local caching & auto-sync when internet is restored
+- 🌓 Clean, responsive admin panel UI (Laravel Blade/Vue optional)
+- 🚦 API-first architecture ready for mobile apps or additional frontends
+**[Repo](https://github.com/mohamedjomaa1/powergym-laravel-javaFX)**
+
+---
+
+### 👩‍🎓Educational Platform
+> Cross-device learning platform (Web + Desktop + Mobile)
+**Tech:** Symfony, JavaFX, CodenameOne
+- 🎓 Course creation & management — lessons, modules, videos, quizzes, assignments
+- 👩‍🏫 Teacher dashboards — student tracking, grading, attendance, and course analytics
+- 👨‍🎓 Student learning space — coursework, progress tracking, certificates, and saved lessons
+- 📝 Interactive quizzes & exams with randomization, timed tests, and auto-grading
+- 📚 Resource library — PDFs, videos, slides, and downloadable materials
+- 💬 Real-time communication — announcements, private messaging, and class feeds
+- 🔐 Secure authentication (JWT/Symfony Security) for Web, Desktop, and Mobile apps
+- 📡 Cross-platform access — responsive web app (Symfony), desktop app (JavaFX), and mobile app (Codename One)
+- 📊 Course analytics — completion rates, student performance insights, engagement metrics
+- 🧾 Certificates generation (PDF) for completed courses
+- 🌓 Dark/Light mode + accessible UI across all platforms
+- 🚦 API-first design enabling future mobile/desktop clients and external integration
+**[Repo](https://github.com/mohamedjomaa1/LEARN4u-symfony-javaFX-codenameone)**
+
+---
+
+### 🏛️SmartMunicipality Desktop App
+> Customer relationship management system with Oracle DB
+**Tech:** C++, Qt, Oracle Database
+- 👤 Customer management — detailed profiles, contact history, notes, tags, and attachments
+- 🧾 Lead & opportunity tracking — sales stages, expected revenue, closing probability, reminders
+- 📨 Integrated communication history — emails, calls, meetings logged per customer
+- 🎫 Support ticketing module — issue creation, status tracking, priority levels, and agent assignment
+- 📅 Calendar & tasks — meeting scheduling, follow-ups, deadline management with reminders
+- 📊 Analytics dashboard — sales performance, conversion rates, top clients, agent productivity
+- 🔍 Advanced search & filtering — instant results with Oracle full-text indexing
+- 🔐 Secure authentication & permissions — RBAC, session management, encrypted credentials
+- 🔄 Offline mode (optional) with local caching and background synchronization
+- 🖥️ Modern Qt UI/UX — responsive widgets, theming support, multi-window workspace
+- 🧾 Report generation (PDF/CSV) for sales summaries, customer lists, ticket logs
+- 🌐 Multi-language support via Qt Linguist
+
+**[Repo](https://github.com/mohamedjomaa1/smartMunicipality-Qt-Cpp)**
+
+---
+
+### 🧭2D Adventure Game
+> Retro-style 2D game from scratch
+**Tech:** C, SDL2 (Ubuntu)
+- 🎮 Custom 2D engine built in C — rendering loop, game states, event handling, collision detection
+- 🧱 Tile-based world with map loading from JSON/TXT and multi-layer environments
+- 🧍 Player movement & interactions — smooth walking, sprinting, NPC dialogs, pickups
+- 👾 Enemy AI & NPC behaviors — patrol, chase, vision cones, scripted dialogues
+- ⚔️ Combat system — hitboxes, damage frames, simple combo logic, and health bars
+- 🎨 Retro pixel-art aesthetic — sprite sheets, animations, frame interpolation
+- 🔊 Audio engine (SDL_mixer) — background music, sound effects, volume control
+- 📦 Inventory & item system — consumables, quest items, weapon upgrades
+- 📜 Quest & storyline engine — triggers, scripted events, multi-stage quests
+- 💾 Save/Load system — binary or JSON save files with player state
+- 🖥️ Cross-platform build-ready (Linux/Ubuntu primary, portable to Windows with minor changes)
+- 🐞 Debug mode — hitbox visualization, FPS counter, entity inspector
+
+**[Repo](https://github.com/mohamedjomaa1/GAME-SDL)**
+
+
 
 ---
 

@@ -1,7 +1,11 @@
 
 # Hi there, I'm Mohamed Jomaa 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=2500&pause=1000&color=005F19&width=435&lines=Software+Engineer;Full-Stack+Developer;Angular+%E2%80%A2+ReactJS+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;Cloud+%7C+DevOps+%26+CI%2FCD" alt="Typing SVG" /></a>
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=2500&pause=1000&color=005F19&vCenter=true&width=435&lines=Software+Engineer+%7C+Full-Stack+Developer;Angular+%E2%80%A2+ReactJS+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;Cloud+%7C+DevOps+%26+CI%2FCD" alt="Typing SVG" /></a>
+
+</div>
 
 ---
 

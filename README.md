@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 🎓 **Software Engineering Student** | Specializing in **Web Development & DevOps**.
 

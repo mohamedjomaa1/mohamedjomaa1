@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🎓 **Software Engineering Student** | Specializing in **Web Development & DevOps**.
+🎓 **Software Engineer** | Specializing in **Web & Mobile Development | DevOps**.
 
 🔍 Actively seeking a **graduation internship (PFE)**. 
 
@@ -217,7 +217,7 @@
 
 <div align="center">
 
-### Open to internship & collaboration opportunities in 2026 🚀
+### Open to professional development and partnership opportunities in 2026 🚀
 
   
 Feel free to reach out — let's build something amazing together!

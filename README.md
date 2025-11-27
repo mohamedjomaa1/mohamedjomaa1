@@ -60,6 +60,7 @@
 ![Mockito](https://img.shields.io/badge/Mockito-00A0DC?style=for-the-badge&logo=mockito&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PyUnit](https://img.shields.io/badge/PyUnit-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
 
